@@ -24,6 +24,9 @@
                 "lang/*.js",
 				"themes/*.js"
             ]
-        }
+        },
+		"branch-alias" : {
+			"dev-master" : "3.20.x-dev"
+		}
     }
 }
